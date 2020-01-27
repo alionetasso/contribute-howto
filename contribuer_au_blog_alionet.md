@@ -13,6 +13,14 @@ La rédaction des articles peut se faire de 2 façons différentes:
 
 Pour une courte introduction à Git voir [l'article dédié](./utiliser_git.md).
 
+## Annoncer son futur travail sur la liste de diffusion
+
+**Cette étape est extrêmement importante pour éviter la duplication du travail !!**
+Vous avez envie de contribuer à openSUSE et Alionet en rédigeant ou en traduisant un article ? Merci beaucoup, mais afin de coordonner les efforts, il y a quelques règles à respecter.
+La première d'entre elle consiste à s'abonner à la liste de diffusion [opensuse-translation-fr](https://lists.opensuse.org/opensuse-translation-fr/). C'est sur cette liste que les autres rédactrices et rédacteurs échangent et se tiennent mutuellement au courant de ce sur quoi elles ou ils travaillent.
+Lorsque vous avez choisi un sujet pour rédiger un article ou bien, et surtout, lorsque vous vous apprêtez à traduire un article paru sur [news.opensuse.org](https://news.opensuse.org), il faut vérifier que personne n'a annoncé déjà son intention de le faire.
+Si ce n'est pas le cas, vous devez envoyer un mail à la liste de diffusion en indiquant ce sur quoi vous allez travailler et la date estimée de publication.
+
 ## Écrire un article depuis l'interface Web
 
 Pour pouvoir se connecter, il faut disposer d'un compte rédacteur (en faire la demande à un administrateur) et se rendre à l'adresse [https://blog.alionet.org/admin](https://blog.alionet.org/admin).
